@@ -1,0 +1,388 @@
+*{
+    padding:0px;
+    margin: 0px;
+    font-family: Montserrat; 
+
+}
+
+.navbar{
+    height: 120px;
+    border: 1px solid;
+    border-color: black;
+}
+
+.heroGoverness{
+    height: 418px;
+    bottom: 0;
+    background-image: url('../src/assets/Banner.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    color: #FFF;
+
+/* Heading 1 */
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 50px; /* 125% */
+text-transform: capitalize;
+    
+}
+
+.defination{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.Points{
+    background-color: rgba(229, 222, 202, 0.80);
+    background-size: 100% 100%, 100% 100%;
+    height: 624px;
+    border: 1px solid black;
+}
+.Points h2{
+  color: white;
+ 
+}
+
+.textContainer{
+    color: #FFF;
+
+/* Heading 1 */
+border: 1px solid black;
+font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 50px; /* 125% */
+text-transform: capitalize;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.pointsContainer{
+    margin: 10px;
+    border: 1px solid red;
+    margin: 20px;
+    height: 500px;
+    justify-content: center;
+    font-weight: 700;
+    
+}
+
+.point1{
+    border: 1px solid red;
+    height: 70px;
+    padding: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.point1 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+    
+}
+
+.point2{
+
+height: 34px;
+border: 1px solid red;
+padding: 10px;
+color: white;
+display: flex;
+    align-items: center;
+
+}
+
+.point2 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.point3{
+width: 1143;
+height: 34px;
+border: 1px solid red;
+padding: 10px;
+display: flex;
+color: white;
+    align-items: center;
+}
+
+.point3 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.point4{
+width: 1186px;
+height: 70px;
+color: white;
+border: 1px solid red;
+padding-left: 7px;
+display: flex;
+    align-items: center;
+}
+
+.point4 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.point5{
+width: 1186px;
+height: 68px;
+border: 1px solid red;
+color: white;
+display: flex;
+padding-left: 7px;
+    align-items: center;
+}
+
+.point5 p{
+    margin-left: 15px;
+    color: #FFF;
+    
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.point6{
+width: 702;
+height: 34px;
+border: 1px solid red;
+padding: 10px;
+color: white;
+display: flex;
+    align-items: center;
+}
+
+.point6 p{
+    margin-left: 15px;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+
+.icon{
+    border: 1px solid black;
+    width: 45px;
+    height: 26px;
+}
+
+.Point1Text{
+    border: 1px solid black;
+}
+
+.governessThree{
+    border: 1px solid black;
+    height: 700px;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+background: linear-gradient(180deg, rgba(14, 41, 69, 0.94) 99.99%, rgba(26, 60, 95, 0.00) 100%);
+}
+
+.GovPoints{
+    margin: 10px;
+    border: 1px solid red;
+    margin: 20px;
+    height: 500px;
+    justify-content: center;
+    padding-left: 90px;
+    font-weight: 700;
+}
+
+.secThreeHeading{
+    border: 1px solid white;
+    width: 375px;
+    display: flex;
+    font-weight: bolder;
+    justify-content: center;
+    color: #FFF;
+
+    color: #FFF;
+
+    /* Heading 2 */
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px; /* 77.778% */
+    letter-spacing: 1.08px;
+}
+
+.GovPoints{
+    margin: 10px;
+    border: 1px solid red;
+    margin: 20px;
+    height: 370px;
+    justify-content: center;
+    padding-left: 60px;
+    font-weight: 700;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.Salary{
+    
+    width: 305px;
+    display: flex;
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    color: white;
+    color: #FFF;
+
+/* Heading 2 */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 28px; /* 77.778% */
+letter-spacing: 1.08px;
+}
+
+.SalaryDetail{
+    
+    height: 100px;
+    display: flex;
+    margin-left:20px ;
+    font-weight: bold;
+    color: white;
+    color: #FFF;
+
+/* Body */
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 34px; /* 170% */
+letter-spacing: 1px;
+}
+
+.detailSecTwo{
+    width:100%;
+    height: 380px;
+     border: 1px solid rgba(0, 0, 0, 0.18);
+    background: linear-gradient(180deg, rgba(14, 41, 69, 0.94) 99.99%, rgba(26, 60, 95, 0.00) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+    
+}
+
+.details{
+    width:100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: start ;
+    font-weight: bolder;
+}
+
+.details p{
+    color: #FFF;
+
+/* Heading 2 */
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 77.778% */
+letter-spacing: 1.08px;
+text-align: justify;
+}
+
+.button2{
+    width: 171px;
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 5px;
+border: 0.5px solid #0A3356;
+background: #FA9E36;
+box-shadow: 0px 4px 30px -1px rgba(0, 0, 0, 0.50);
+backdrop-filter: blur(10px);
+color: #000;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 138.889% */
+cursor: pointer;
+}
+
+.SectionThreeMain{
+    background-color: rgba(13,40,69,0.9);
+    background-image: url('./assets/Background.png');
+    background-position: center left,top left;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+}
+
+.AboutUsHero{
+    height: 515px;
+    flex-shrink: 0;
+}
